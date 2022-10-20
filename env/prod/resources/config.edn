@@ -1,0 +1,4 @@
+{:prod true
+ :port 3000
+ :gamesurl "https://www.giantbomb.com/api/games/?api_key={{api-key}}&format=json"
+ }
